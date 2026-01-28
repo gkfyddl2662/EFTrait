@@ -1,0 +1,5 @@
+{
+  "name": "Endfield Trait Checker",
+  "description": "A tool to check weapon compatibility based on traits for Arknights: Endfield, featuring a clean Toss-inspired UI.",
+  "requestFramePermissions": []
+}
